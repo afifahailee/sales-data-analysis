@@ -49,7 +49,7 @@ sales-data-analysis/
 │
 ├── data/ (optional)
 ├── notebooks/
-│   └── sales_analysis.ipynb
+│   └── data_sales_analysis.ipynb
 ├── README.md
 └── .gitignore
 
