@@ -58,9 +58,3 @@ sales-data-analysis/
 - Data cleaning is a critical step in analysis  
 - Visualization helps in understanding patterns clearly  
 - Real-world data often requires preprocessing before analysis  
-
-
-## 🔗 Future Improvements
-- Build an interactive dashboard using Power BI or Tableau  
-- Apply machine learning for sales prediction  
-- Use larger and more complex datasets  
